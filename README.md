@@ -19,7 +19,7 @@
 
 **SINCE MY BRANCH WAS MASTER I HAD TO SWITCH BETWEEN THE MAIN AND MASTER BRANCHES:**
 **git config init.defaultBranch main**
-then renamed my branch to main git branch 
+**then renamed my branch to main git branch -m master main**
 ### 4. Creating files
 - Inside my current working directory,i created a new text file,hello.txt, using the touch command in UNiX, touch hello.txt then added a simple text,"Hello, Git!", by using the vi editor and going to insert mode by pressing "i" on my keyboard to enable me to type. Later after finishing editing my file i exited the vi editor by pressing "shift with combination with double zz"(shift+zz)
 
